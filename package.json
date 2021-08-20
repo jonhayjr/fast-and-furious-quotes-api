@@ -1,7 +1,7 @@
 {
-  "name": "starwars",
+  "name": "fast-and-furious",
   "version": "1.0.0",
-  "description": "This is a Star Wars quotes app.",
+  "description": "This is a Fast and Furious quotes app.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
